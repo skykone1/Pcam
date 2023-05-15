@@ -1,0 +1,14 @@
+*.pyc
+__pycache__/
+*.egg-info/
+*.egg
+*.pth
+*.npy
+*.txt
+*.csv
+data/
+*.gif
+.vscode/
+.zip
+pcam/trained_models/*
+pcam/scripts/trimesh_zoo/
