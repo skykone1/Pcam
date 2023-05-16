@@ -20,7 +20,7 @@
 3.运行
 ```python
   #训练
-  python /home/dingfei/projects/hush-PCAM/pcam/scripts/train.py
+  python /home/dingfei/projects/Pcam/pcam/scripts/train.py
   #测试
-  python /home/dingfei/projects/hush-PCAM/pcam/scripts/eval.py
+  python /home/dingfei/projects/Pcam/pcam/scripts/eval.py
 ```
